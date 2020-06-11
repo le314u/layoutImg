@@ -1,0 +1,11 @@
+{
+    "pathImg":"imgs/back6.png",
+    "resize":{
+        "width":1521,
+        "height":954
+    },
+    "positionFront":{
+        "x":240,
+        "y":70
+    }
+}

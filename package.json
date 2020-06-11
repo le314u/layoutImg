@@ -1,0 +1,15 @@
+{
+  "name": "layout_img",
+  "version": "1.0.0",
+  "description": "Cria uma imagem de acordo com apanhado de Dados",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Lucas Mateus Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.13.0",
+    "qrcode": "^1.4.4"
+  }
+}

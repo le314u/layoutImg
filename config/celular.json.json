@@ -1,0 +1,11 @@
+{
+    "pathImg":"imgs/back5.png",
+    "resize":{
+        "width":777,
+        "height":1653
+    },
+    "positionFront":{
+        "x":216,
+        "y":35
+    }
+}
