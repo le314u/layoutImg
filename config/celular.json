@@ -1,5 +1,5 @@
 {
-    "pathImg":"imgs/back5.png",
+    "pathFileBack":"./imgs/back5.png",
     "resize":{
         "width":777,
         "height":1653
