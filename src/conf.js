@@ -1,3 +1,4 @@
+var fs = require('fs')
 
 //Arquivo de configuração
 async function openConf(nameArq){
